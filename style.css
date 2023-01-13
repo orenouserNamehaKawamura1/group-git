@@ -1,0 +1,17 @@
+body{
+    font-family: 'Kaisei Opti', serif;
+}
+#title{
+    text-align: center;
+    font-size: 35px;
+}
+.charmpoints{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+}
+.writer{
+    display: flex;
+}
