@@ -8,10 +8,23 @@ body{
 .charmpoints{
     display: flex;
     justify-content: center;
+    text-align: center;
+    justify-content: space-around;
 }
 .footer{
     display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+
 }
 .writer{
     display: flex;
+    
+}
+.icon :hover{
+    color:coral
+}
+.icon_name{
+    text-align: center;
 }
