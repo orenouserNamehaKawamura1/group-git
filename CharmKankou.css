@@ -1,0 +1,70 @@
+body{
+    font-family: 'Kaisei Opti', serif;
+    }
+    #title{
+    text-align: center;
+    font-size: 35px;
+    }
+.charmpoints{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.writer{
+    display: flex;
+    
+}
+.icon :hover{
+    color:coral
+}
+.icon_name{
+    text-align: center;
+}
+.charm1 {
+    display: flex;
+    background-color:#e6f0f0;
+}
+img.charm1img{
+    width: 400px;
+    height: 300px;
+    
+}
+
+.charm2 {
+    display: flex;
+    background-color: #e6f0f0;
+}
+img.charm2img{
+    width: 400px;
+    height: 300px;
+}
+.charm3 {
+    display: flex;
+    background-color: #e6f0f0;
+}
+img.charm3img{
+    width: 500px;
+    height: 300px;
+}
+.charm4 {
+    display: flex;
+    background-color: #e6f0f0;
+}
+img.charm4img{
+    width: 400px;
+    height: 300px;
+}
+.headline{
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #86c8eb;/*背景色*/
+    border-left: solid 5px #61b3ca;/*左線（実線 太さ 色）*/
+}
