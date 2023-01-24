@@ -12,6 +12,7 @@ body{
     justify-content: space-around;
 }
 .footer{
+    margin-top: 70px;
     display: flex;
     justify-content: center;
     justify-content: space-around;
@@ -28,26 +29,19 @@ body{
 .icon_name{
     text-align: center;
 }
-/* 
-ここまでindexのcss
-*/
-
-/*
-ここまで食のcss
-*/
-
-/*
-ここまで観光のcss
-*/
-
-/*
-ここまで林業のcss
-*/
-
-/*
-ここまで有名人のcss
-*/
-
-/*
-ここまで制作者のcss
-*/
+.iwate_title{
+    letter-spacing: 1em;
+    text-align: center;
+    margin-top: 50px;
+}
+a {
+    text-decoration: none;
+  }
+.seni{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.writermargin{
+    margin-left: 20px;
+}
