@@ -1,7 +1,57 @@
+body{
+    font-family: 'Kaisei Opti', serif;
+}
+#title{
+    text-align: center;
+    font-size: 35px;
+}
+.charmpoints{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.footer{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.writer{
+    display: flex;
+    
+}
+.icon :hover{
+    color:coral
+}
+.icon_name{
+    text-align: center;
+}
+.iwate_title{
+    letter-spacing: 1em;
+    text-align: center;
+    margin-top: 50px;
+}
+a {
+    text-decoration: none;
+  }
+.seni{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.writermargin{
+    margin-left: 20px;
+}
+
+
 .write1{
     display: flex;
     margin: 50px;
 }
+
 .write2{
     display: flex;
     margin: 50px;
@@ -17,4 +67,7 @@
     display: flex;
     margin: 50px;
 
+}
+.index{
+    color: #000;
 }
